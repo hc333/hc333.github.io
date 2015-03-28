@@ -1,0 +1,30 @@
+			body{
+				background-image: url("https://www.math.ku.edu/~wsanders/Kittens/new%20kittens/cats-animals-kittens-background-us.jpg"); 
+				background-size: 1000px;
+				margin: 20px; (or 20%)
+				
+			}
+			p{
+				color: green;
+			}
+			h1{
+				font-family: impact;
+			}
+			h3{
+				font-family: fantasy;
+			}
+			#paragraph1{
+				color:red;
+				font-family: cursive;
+			}
+			.media{
+				color: red;
+			}
+			#cats{
+				font-size:100px;
+				font-family: monospace;
+				outline: dashed;
+				outline-width: 8px;
+				outline-color: red;
+				width: 250px;
+			}
